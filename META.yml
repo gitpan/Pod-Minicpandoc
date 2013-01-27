@@ -23,10 +23,10 @@ requires:
   File::Spec: 0
   HTTP::Tiny: 0
   IO::Uncompress::Gunzip: 0
-  JSON: 0
+  JSON::PP: 0
   perl: 5.8.1
 resources:
   homepage: git://github.com/hoelzro/pod-minicpandoc
   license: http://dev.perl.org/licenses/
   repository: git://github.com/hoelzro/pod-minicpandoc
-version: 0.13
+version: 0.14
